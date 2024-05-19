@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://jonmgomes.com/wp-content/uploads/2020/03/Network_Diagram_GIF_5_seconds.gif" width="30px" height="20px">LITTLE FACTS ABOUT ME 🧑<br><br>
+<img src="https://static.wixstatic.com/media/c539ba_d78cf65a42e0416991c66f088bdef192~mv2_d_3200_1600_s_2.gif" width="50px" height="50px">LITTLE FACTS ABOUT ME 🧑<br><br>
 🧞 I'm a Tech Enthusiast.<br>🔭 I’m currently working on Fullstack Web Development(MERN).<br>👯 I’m open to collaborate with Fullstack Web Developement projects.<br>💡 Contributing to Open Source Projects is always been a goal to me.<br>⚡ Fun fact: I love Sketching, especially Charcoal.
 
 
