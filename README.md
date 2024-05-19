@@ -1,5 +1,6 @@
 
-![](https://th.bing.com/th/id/OIP.68pVsuxC2ufHzSdokqmJjAHaCS?rs=1&pid=ImgDetMain)
+<img src="https://commit-art.netlify.app/card.png" style="display:inline-block" align="left" width="100%" height="55px">
+
 
 
 <img src="https://media.giphy.com/media/XCAbMJWD9dlPa/giphy.gif" style="display:inline-block" align="left" width="55px" height="55px">
@@ -24,10 +25,11 @@
 
 <hr>
 
-<img align="right" width=150px height=150px alt="side_sticker" src="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5" />
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/oRWpRDl9SqBOw/giphy.gif" />
 
 <p align="left">
- <img src="https://giphy.com/gifs/bigblueboo-cyberpunk-network-signals-ToMjGpyHdJiioVfdtK0" width="30px" height="30px" alt="Git"/><i><b> LITTLE FACTS ABOUT ME 🧑 </b></i>
+<!--  <img src="https://giphy.com/gifs/bigblueboo-cyberpunk-network-signals-ToMjGpyHdJiioVfdtK0" width="30px" height="30px" alt="Git"/> -->
+    <i><b>LITTLE FACTS ABOUT ME 🧑 </b></i>
 </p>
 
 - 🧞 I'm a Tech Enthusiast.
@@ -98,7 +100,7 @@
 </p>
 
 <p align="center">
-    <a href="https://leetcode.com/SachinMondal" style="display: inline-block">
+    <a href="https://leetcode.com/Sachin_720/" style="display: inline-block">
         <img width="40%" src="https://leetcode.card.workers.dev/SachinMondal?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
     </a>
 </p>
@@ -122,17 +124,17 @@
 
 <hr>
 
-<p align="center">
-    <a href="https://holopin.io/@SachinMondal">
+<!--<p align="center">
+     <a href="https://holopin.io/@SachinMondal">
         <img src="https://holopin.io/api/user/board?user=SachinMondal"/>
     </a>
-</p>
+</p> -->
 
 <hr>
 <!--
 <h4>🏆 GITHUB TROPHIES:</h4>
 <p align="center">
-    <a href="https://github.com/kvenkatamar/">
+    <a href="https://github.com/SachinMondal/">
       <img width=800 src="https://github-profile-trophy.vercel.app/?username=sachinMondal&column=8&theme=onedark&no-frame=true&no-bg=true"/>
     </a>
 </p>
@@ -149,7 +151,7 @@
     <img align="left" alt="Sachin Mondal | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://www.instagram.com/s_a_c_h_i_n_m_o_n_d_a_l/">
-    <img align="left" alt="Venkat Amar | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img align="left" alt="Sachin Mondal | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <!-- <a href="https://www.facebook.com/profile.php?id=">
     <img align="left" alt="Sachin Mondal | Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
