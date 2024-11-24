@@ -15,7 +15,7 @@
 
 <p align="center">
     <em>
-        This is me <b>Sachin Mondal</b>, a 3rd year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/" color="white"> <b>Netaji Subhash Engineering College</b>, Kolkata</a>.
+        This is me <b>Sachin Mondal</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.griet.ac.in/" color="white"> <b>Netaji Subhash Engineering College</b>, Kolkata</a>.
         An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b>Machine Intelligence Enthusiast.</b> 
         <br>
         <br>
